@@ -1,0 +1,4 @@
+Taruh foto profil kamu di sini dengan nama: profile.jpg
+
+Dipakai di Hero (foto besar) dan Contact (foto bulat kecil).
+Boleh .png, tinggal ganti "photo" di lib/data.ts.

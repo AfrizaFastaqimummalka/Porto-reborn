@@ -1,0 +1,4 @@
+Taruh file CV kamu di sini dengan nama: cv.pdf
+(jadi path-nya: public/cv.pdf)
+
+Tombol "Download CV" di Hero section akan otomatis mendownload file ini.
