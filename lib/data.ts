@@ -93,7 +93,7 @@ export const projects: Project[] = [
     status: "Deployed",
     year: "2025",
     repoUrl: "https://github.com/AfrizaFastaqimummalka/BKD.git",
-    liveUrl: "#",
+    liveUrl: "https://bkds.app/",
     images: ["/images/projects/beban-kerja-dosen/1.jpg", "/images/projects/beban-kerja-dosen/2.jpg", "/images/projects/beban-kerja-dosen/3.jpg"],
   },
   {
@@ -219,7 +219,7 @@ export const projects: Project[] = [
     status: "Completed",
     year: "2024",
     repoUrl: "https://github.com/AfrizaFastaqimummalka/undead-zombie.git",
-    liveUrl: "#",
+    liveUrl: "https://undead-kingdom.vercel.app/",
     images: ["/images/projects/undead-kingdom/1.jpg", "/images/projects/undead-kingdom/2.jpg", "/images/projects/undead-kingdom/3.jpg"],
   },
 ];
